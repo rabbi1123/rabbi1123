@@ -1,8 +1,8 @@
 ### Hi :raising_hand: I'm Md.Mosfikur Rahman
 
-- :computer: I'm a Freelance Full Stack Web Developer.
+- :computer: I'm a Full Stack Web Developer with 7+ years experience.
 - :heart: I love to code, build **Websites** and **Web Applications**.
-- :electric_plug: **I usually develop and create management system software and Enterprise System Solution as well as manage Database Design and Database Development**.
+- :electric_plug: **During my 7 years employment at several companies, I have been responsible for developing innovative solutions like Library Management System, ERP system for Garments manufacture  Company, E-commerce solution, Airlines Ticket booking system, Food Delivery APP (FOODI) System using C#, ASP.NET Core, Web API, Entity Framework, Angular, PostgreSQL, Microsoft SQL Server. I have to work closely with project managers, engineers, business stakeholders and programmers to design systems and obtain information on project abilities and constraints, performance requirements and interfaces.**.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
 ---
@@ -11,14 +11,14 @@
 -	**ASP.NET MVC | ASP.NET Core**
 -	**Web API** 
 -	**Entity Framework** 
--	**Angular 6+**
--	**TypeScript**
+-	**Angular 8+**
 -	**C# | C++**
--	**HTML | CSS | Bootstrap | JavaScript | jQuery | Ajax**
+-	**CI/CD**
 -	**Microsoft SQL Server**
+-	**PostgreSQL**
+-	**MongoDB**
 -	**Database Design**
 -	**SQL | NoSQL**
--	**Firebase**
 -	**Design Pattern | SOLID**
 -	**Git | GitHub**
 
