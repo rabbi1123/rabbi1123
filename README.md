@@ -19,6 +19,8 @@
 -	**MongoDB**
 -	**Database Design**
 -	**SQL | NoSQL**
+-	**Microservice Architecture**
+-	**Redis | gRPC | RabbitMQ**
 -	**Design Pattern | SOLID**
 -	**Git | GitHub**
 
